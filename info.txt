@@ -1,0 +1,6 @@
+name: Имя каталога
+sort: Cato, Cat1, Cat2
+autor: AutorCataloga
+date: 12.12.2012
+rule: rwx
+Group: all
